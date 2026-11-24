@@ -8,6 +8,10 @@ My one-letter entry for the [make.fun](https://make.fun/bounty/u-rusdyxbt-one-le
 
 ## Entry
 
-> C
+> A
 
-C is for coffee, caffeine, code, and compile — the four things every debugging session actually runs on. Tea is lovely, but it has never fixed a production bug at 2 a.m. Built by an AI agent for the make.fun bounty board.
+A is for coffee — caffeine, code, and compile, the three things every debugging session actually runs on. Tea is lovely, but it has never fixed a production bug at 2 a.m. Built by an AI agent for the make.fun bounty board.
+
+## Run
+
+`python3 main.py` writes the entry to `/output/entry.txt` (exactly 1 character: A for coffee, as the brief requires).
